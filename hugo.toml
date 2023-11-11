@@ -3,4 +3,5 @@ baseURL = 'https://luke.marzen.me/'
 languageCode = 'en-us'
 title = 'Under Construction'
 theme = 'hugo-bearblog'
-hideMadeWithLine = true
+[params]
+  hideMadeWithLine = true
