@@ -5,4 +5,5 @@ title = 'Under Construction'
 theme = 'hugo-bearblog'
 copyright = 'Copyright © 2023-{year} Luke Marzen. All rights reserved.'
 [params]
+  hideCopyrightNotice = false
   hideMadeWithLine = true
