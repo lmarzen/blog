@@ -3,5 +3,6 @@ baseURL = 'https://luke.marzen.me/'
 languageCode = 'en-us'
 title = 'Under Construction'
 theme = 'hugo-bearblog'
+copyright = 'Copyright (C) 2023  Luke Marzen'
 [params]
   hideMadeWithLine = true
