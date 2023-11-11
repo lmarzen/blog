@@ -1,5 +1,6 @@
 baseURL = 'https://luke.marzen.me/'
 # baseURL = 'https://lmarzen.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Under Construction'
 theme = 'hugo-bearblog'
+hideMadeWithLine = true
