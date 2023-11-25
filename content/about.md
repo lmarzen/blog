@@ -11,7 +11,7 @@ Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student 
     <center>
     <img src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
          alt="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska."
-         width="70%">
+         width="80%">
     </center>
     <figcaption>Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?</figcaption>
 </figure>
