@@ -107,7 +107,7 @@ Another drawback of 40% keyboards is their limited usability for others.  Due to
 
 ### Final Thoughts
 
-The allure of minimalist keyboard designs might initially appear confounding or impractical to many.  Compact, stripped-down keyboards challenge the conventional notions of what a functional keyboard should entail. 
+The allure of minimalist keyboard designs might initially appear confounding or impractical.  Compact, stripped-down keyboards challenge the conventional notions of what a functional keyboard should entail. 
 
 Minimalist keyboards introduce us to concepts like layers, ortholinear layouts, and the integration of innovative firmware like QMK.  These elements contribute to a more compact yet versatile keyboard experience.
 
