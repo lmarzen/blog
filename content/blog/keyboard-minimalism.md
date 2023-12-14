@@ -61,11 +61,11 @@ To achieve a reduction in the number of keys without degrading functionality, sm
 
 #### Ortholinear and Columnar Staggered
 
-Traditional keyboards are _row staggered_.  Many small keyboards leverage _ortholinear_ or _Columnar staggered_ designs.  Ortholinear keyboards remove the staggered offset in favor of a perfectly aligned grid of keys.  You may be aware that the row stagger is a history artifact spawned out of the necessity to prevent typewriter arms from colliding.  Columnar staggered takes this one step further and staggers the keys' columns to account for each finger's lengths, thereby making the keys easier to reach.  Ortholinear and especially columnar staggered layouts have arguable ergonomic improvements since they reduce the unnatural angles required to reach keys, however, these claims have yet to be extensively studied.
+Traditional keyboards are _row staggered_.  Many small keyboards leverage _ortholinear_ or _columnar staggered_ designs.  Ortholinear keyboards remove the staggered offset in favor of a perfectly aligned grid of keys.  You may be aware that the row stagger is a history artifact spawned out of the necessity to prevent typewriter arms from colliding.  Columnar staggered takes optimal alignment one step further by staggering the keys' columns to account for each finger's length, thereby making the keys easier to reach.  Ortholinear and especially columnar staggered layouts have arguable ergonomic improvements since they reduce the unnatural angles required to reach keys, however, these claims have yet to be extensively studied.
 
 #### Travel and Aesthetics
 
-Other benefits of compact keyboards included portability, making them ideal for travel, and aesthetics.  The small size and minimalist design of 40% keyboards can be visually appealing to those who prefer a clutter-free and minimalist desk setup.
+Other benefits of compact keyboards include portability, making them ideal for travel, and aesthetics.  The small size and minimalist design of 40% keyboards can be visually appealing to those who prefer a clutter-free and minimalist desk setup.
 
 
 ### 40% Ortholinear
