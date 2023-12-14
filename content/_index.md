@@ -22,7 +22,7 @@ Here you will find articles I have written on topics that interest me, from tech
 
 ### Why I Write
 
-There are many reasons I write.  Writing is a powerful tool for rationalizing one's opinions.  I write as a way to explore different points of view and share ideas I find interesting.  I think this excerpt best summarizes my motivations for writing.
+Writing is a powerful tool for rationalizing one's opinions.  I write as a way to explore different points of view and share ideas I find interesting.  I think this excerpt best summarizes my motivations for writing.
 
 > ...I have to write to discover what I am doing.  ...I don't know so well what I think until I see what I say; then I have to say it again.<br>
 > --- <cite>Flannery O'Connor[^oconnor1979]</cite>
