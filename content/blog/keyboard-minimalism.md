@@ -85,7 +85,7 @@ Here are a few examples:
 - `<1>` = `<Raise>` + `<q>`
 - `<F1>` = `<Raise>` + `<a>`
 
-As you can see, inputting most special characters is no more complicated than it is on a traditional keyboard, requiring depressing a single modifier key `<Shift>` in the case of the traditional keyboard and `<Lower>`/`<Raise>` for the 40% layout.  Of course, you can customize the layout to suit your preference or use case.
+As you can see, inputting most special characters is no more complicated than it is on a traditional keyboard, requiring depressing a single modifier key `<Shift>` in the case of the traditional keyboard and `<Lower>`/`<Raise>` for the 40% layout.  Of course, you can customize the layout to suit your preferences and use case.
 
 
 ### QMK Firmware
