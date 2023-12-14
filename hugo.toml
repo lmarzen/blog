@@ -38,7 +38,7 @@ copyright = 'Copyright © 2023 Luke Marzen. All rights reserved.'
   # file. See [Hugo's Format function docs](https://gohugo.io/functions/format/)
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
-  # dateFormat = "2006-01-02"
+  dateFormat = "Jan 02, 2006"
 
 [markup]
   [markup.goldmark]

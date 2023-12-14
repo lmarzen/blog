@@ -8,11 +8,9 @@ menu = "main"
 Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  In my free time I enjoy learning new things.  My hobbies include Computers, Open Source, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
 
 <figure>
-    <center>
     <img src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
          alt="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska."
          width="80%">
-    </center>
     <figcaption>Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?</figcaption>
 </figure>
 
