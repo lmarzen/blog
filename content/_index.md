@@ -1,3 +1,6 @@
++++
++++
+
 # Welcome to my Blog
 
 Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.
