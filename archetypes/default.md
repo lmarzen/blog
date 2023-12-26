@@ -3,6 +3,8 @@ title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
 draft = true
 
+highlight = false
+
 #
 # Set menu to "main" to add this page to
 # the main menu on top of the page

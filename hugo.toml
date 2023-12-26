@@ -24,6 +24,10 @@ copyright = 'Copyright © 2023 Luke Marzen. All rights reserved.'
   hideCopyrightNotice = false
   hideMadeWithLine = true
 
+  # Save resources by only including code block syntax highlighting when
+  # necessary. Set false here and enable on a post-by-post basis.
+  syntax = false
+
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
   description = '''Luke Marzen's personal blog.'''
   # images = ['images/share.png']
@@ -45,3 +49,18 @@ copyright = 'Copyright © 2023 Luke Marzen. All rights reserved.'
     [markup.goldmark.renderer]
       # enable html in markdown files.
       unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false # need a style sheet
+    noHl = false
+    # style = 'monokai'
+    tabWidth = 4
+

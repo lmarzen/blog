@@ -3,6 +3,8 @@ title = "Keyboard Minimalism"
 date = "2023-12-13"
 draft = false
 
+syntax = false
+
 #
 # description is optional
 #

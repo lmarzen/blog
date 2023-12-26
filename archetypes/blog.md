@@ -3,6 +3,8 @@ title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
 draft = true
 
+highlight = false
+
 #
 # description is optional
 #
