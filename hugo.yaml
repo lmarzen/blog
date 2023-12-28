@@ -55,7 +55,7 @@ params:
 
   assets:
     disableHLJS: true # to disable highlight.js
-    # disableChroma: false
+    disableChroma: false
     # disableFingerprinting: true
     favicon: "/favicon.svg"
     favicon16x16: "/favicon-16x16.png"
@@ -135,22 +135,26 @@ menu:
     #   name: categories
     #   url: /categories/
     #   weight: 10
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
     - identifier: blog
       name: blog
       url: /blog/
-      weight: 10
+      weight: 20
     - identifier: search
       name: search
       url: /search/
-      weight: 20
+      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 30
+      weight: 40
     - identifier: about
       name: about
       url: /about/
-      weight: 40
+      weight: 50
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
