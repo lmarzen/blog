@@ -12,6 +12,7 @@ cover:
   image: "/images/blog/keyboard-minimalism/cover.jpg"
   caption: "OLBK Planck with NovelKeys KAM Superuser keycaps."
   alt: "Image of Luke's 40% keyboard."
+  hidden: false
   hiddenInList: false
   hiddenInSingle: true
 

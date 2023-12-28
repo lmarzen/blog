@@ -12,6 +12,7 @@ cover:
   image: "image path" 
   caption: "text"
   alt: "text"
+  hidden: false
   hiddenInList: false
   hiddenInSingle: false
 
