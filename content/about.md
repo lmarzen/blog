@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Beyond academia I enjoy diving into my diverse interests.  I'm passionate about Computers, Open Source projects, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
+Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Beyond academia, I enjoy diving into my diverse interests.  I'm passionate about Computers, Open Source projects, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
 
 <!--
 <figure>
