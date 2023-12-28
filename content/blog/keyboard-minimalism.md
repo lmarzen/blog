@@ -8,11 +8,12 @@ tags: ["keyboards"]
 # description: "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 cover:
-    # for consistency aspect ratio should be 1.91:1
-    image: "/images/blog/keyboard-minimalism/cover.jpg"
-    caption: "OLBK Planck with NovelKeys KAM Superuser keycaps."
-    hiddenInList: false
-    hiddenInSingle: true
+  # for consistency aspect ratio should be 1.91:1
+  image: "/images/blog/keyboard-minimalism/cover.jpg"
+  caption: "OLBK Planck with NovelKeys KAM Superuser keycaps."
+  alt: "Image of Luke's 40% keyboard."
+  hiddenInList: false
+  hiddenInSingle: true
 
 showToc: false
 TocOpen: false
@@ -24,6 +25,7 @@ searchHidden: false
 {{< figure
   src="/images/blog/keyboard-minimalism/planck-keyboard.jpg"
   attr="OLBK Planck with NovelKeys KAM Superuser keycaps."
+  alt="Image of Luke's 40% keyboard."
 >}}
 
 What is your first thought when you see the keyboard pictured above?  "How can anyone live without numbers?"  "There is no way this can be practical, right?"  "That keyboard could only be used for sending basic emails, not real work."  You may be wondering why on earth someone would choose to use anything less than a full-sized keyboard, especially one this small.
@@ -87,6 +89,7 @@ Now we examine the 40% ortholinear keyboard layout to understand how we can use 
 {{< figure
   src="/images/blog/keyboard-minimalism/keyboard-layout.png"
   attr="Example keybindings for a 40% ortholinear layout."
+  alt="Diagram depicting the keybindings for a 40% ortholinear keyboard layout."
 >}}
 
 Pictured above is the layout I have been running on my 40% keyboard, which I will use to explain the usability of this style of keyboard.  There are two primary function keys that each activate their own layer.  These are the `<Lower>` and `<Raise>` keys, respectively, and they are meant to be pressed with either thumb.
