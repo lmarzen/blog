@@ -1,5 +1,7 @@
 ---
-title: "Projects"
+title: "Projects
+
+searchHidden: true
 ---
 
 # Under Construction
