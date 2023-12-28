@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "luke.marzen.me",
+    "short_name": "luke.marzen.me",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#1d1e20",
     "background_color": "#ffffff",
     "display": "standalone"
 }
