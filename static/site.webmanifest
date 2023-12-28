@@ -1,7 +1,11 @@
 {
-    "name": "Luke's Blog",
+    "name": "Luke Marzen's Blog",
     "short_name": "Luke's Blog",
     "start_url": "https://luke.marzen.me",
+    "display": "browser",
+    "theme_color": "#1d1e20",
+    "background_color": "#1d1e20",
+    "description": "Luke Marzen's personal blog.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -21,7 +25,4 @@
             "purpose": "maskable"
         }
     ],
-    "theme_color": "#1d1e20",
-    "background_color": "#1d1e20",
-    "display": "browser"
 }
