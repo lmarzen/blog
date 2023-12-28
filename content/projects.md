@@ -1,7 +1,6 @@
-+++
-title = "Projects"
-menu = "main"
-+++
+---
+title: "Projects"
+---
 
 # Under Construction
 

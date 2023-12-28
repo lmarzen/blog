@@ -1,18 +1,26 @@
 +++
 title = "About"
-menu = "main"
 +++
 
-# About Luke
+Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Beyond academia I enjoy diving into my diverse interests.  I'm passionate about Computers, Open Source projects, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
 
-Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  In my free time I enjoy learning new things.  My hobbies include Computers, Open Source, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
-
+<!--
 <figure>
     <img src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
          alt="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska."
          width="80%">
     <figcaption>Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?</figcaption>
 </figure>
+-->
+
+ 	
+
+{{< figure
+  src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
+  attr="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?"
+  align=center
+  width=75%
+>}}
 
 
 ## Career
@@ -25,10 +33,23 @@ I been fortunate to have had the opportunity to participate in several internshi
 In May of 2024 I will return for another internship with Arm continuing work in Pre-Silicon Verification.  After that I will return to Iowa State University to complete the final semester of my Master's degree.  I am pursuing employment upon completion of my Master's degree.
 
 
+## Why I Write?
+
+Writing is a powerful tool for rationalizing one's opinions.  I write as a way to explore different points of view and share ideas I find interesting.  I think this excerpt best summarizes my motivations for writing.
+
+> ...I have to write to discover what I am doing.  ...I don't know so well what I think until I see what I say; then I have to say it again.<br>
+> --- <cite>Flannery O'Connor[^oconnor1979]</cite>
+
+[^oconnor1979]: The Habit of Being: Letters of Flannery O’Connor
+
+
 ## Contact
 
-The best way to get in contact with me is <br>
-`$ echo "l1mLu9GdvJHcApGbuVmeyFWb" | rev | base64 -d`.
+The best way to get in contact with me is:
+{{< highlight bash "linenos=false" >}}
+$ echo "l1mLu9GdvJHcApGbuVmeyFWb" | rev | base64 -d
+{{< / highlight >}}
+
 
 To see what Open Source projects I am contributing to checkout out my [GitHub](https://github.com/lmarzen).
 

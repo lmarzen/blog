@@ -1,0 +1,207 @@
+baseURL: "https://luke.marzen.me/"
+languageCode: en-us
+title: "Luke Marzen"
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+Copyright: "Copyright © 2023 Luke Marzen. All rights reserved."
+# Copyright = 'Copyright © 2023-2024 Luke Marzen. All rights reserved.'
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Luke Marzen"
+  description: "Luke Marzen's personal blog."
+  # keywords: [Blog, Portfolio, PaperMod]
+  author: "Luke Marzen"
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["images/share.png"]
+  DateFormat: "January 2, 2006"
+  # dateFormat = "Jan 02, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  # disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  hidePoweredByLine: true
+  syntax: false # true will force syntax stylesheets to be requested for all pages. Instead enable this on an as needed basis.
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableChroma: false
+    # disableFingerprinting: true
+    favicon: "/favcon.svg"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+    manifest: "/site.webmanifest"
+
+
+  label:
+    text: "Luke Marzen"
+    # icon: "/apple-touch-icon.png"
+    # iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    # title: ExampleSite
+    # subtitle: "This is subtitle"
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: my image
+    # buttons:
+    #   - name: Posts
+    #     url: posts
+    #   - name: Tags
+        # url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome to my Blog"
+    Content: >
+      Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.
+
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/lmarzen"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/lukemarzen/"
+    - name: rss
+      url: "index.xml"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 10
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 40
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: false
+markup:
+  goldmark:
+    renderer:
+      # enable html in markdown files.
+      unsafe: true
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    noClasses: false # if false, must provide a stylesheet
+    style: "monokai"
+    # tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    ordered: false # false = bullets, true = numbers
+    startLevel: 2
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+
