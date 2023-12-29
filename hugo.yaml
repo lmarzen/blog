@@ -26,7 +26,7 @@ params:
   title: "Luke Marzen"
   description: "Luke Marzen's personal blog."
   # keywords: [Blog, Portfolio, PaperMod]
-  author: "Luke Marzen"
+  # author: "Luke Marzen"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   # images: ["images/share.png"]
@@ -88,14 +88,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to my Blog"
-    Content: >
+    Content: |
       Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.
-      <br>
-      <br>
-      <h2>About Me</h2>
-      I'm a computer science graduate student at Iowa State University.  For a more detailed insight into who I am, feel free to visit my [about](about) page.
 
-
+      ---
+      For insight into who I am, my journey, and my interests, feel free to visit my [about](about) page.
 
   socialIcons:
     - name: github
@@ -146,19 +143,19 @@ menu:
     #   url: /
     #   weight: 10
     - identifier: blog
-      name: blog
+      name: Blog
       url: /blog/
       weight: 20
     - identifier: search
-      name: search
+      name: Search
       url: /search/
       weight: 30
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 40
     - identifier: about
-      name: about
+      name: About
       url: /about/
       weight: 50
     # - identifier: example
