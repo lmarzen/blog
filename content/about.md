@@ -10,7 +10,7 @@ ShowWordCount: false
 disableSpecial1stPost: false
 ---
 
-Hello there.  My name is Luke Marzen.  I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Beyond academia, I enjoy diving into my diverse interests.  I'm passionate about Computers, Open Source projects, 3D Printing, Mechanical Keyboards, Motorcycles, Soccer, and Hiking.
+Hello there.  I grew up in Iowa and am proud to call myself an _Iowan_.  Presently, I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Apart from academia, I find enjoyment in exploring a myriad of hobbies.  I'm passionate about computers, Open Source projects, 3D printing, mechanical keyboards, motorcycles, soccer, and hiking.
 
 <!--
 <figure>
@@ -54,10 +54,13 @@ Writing is a powerful tool for rationalizing one's opinions.  I write as a way t
 
 ## Contact
 
-The best way to get in contact with me is via email (obfuscated for my privacy):
+The best way to get in contact with me is via email.  Run this command in your terminal to decode my email address:
+
 {{< highlight bash "linenos=false" >}}
 $ echo "l1mLu9GdvJHcApGbuVmeyFWb" | rev | base64 -d
 {{< /highlight >}}
+
+This obfuscation ensures privacy against email scraping bots.  If you encounter any issues, feel free to contact me through the other platforms listed below.
 
 To see what Open Source projects I am contributing to checkout out my [GitHub](https://github.com/lmarzen).
 
