@@ -90,6 +90,11 @@ params:
     Title: "Welcome to my Blog"
     Content: >
       Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.
+      <br>
+      <br>
+      <h3>About Me</h3>
+      I'm a computer science graduate student at Iowa State University.  For a more detailed insight into who I am, feel free to visit my [about](about) page.
+
 
 
   socialIcons:
@@ -136,10 +141,10 @@ menu:
     #   name: categories
     #   url: /categories/
     #   weight: 10
-    - identifier: home
-      name: home
-      url: /
-      weight: 10
+    # - identifier: home
+    #   name: home
+    #   url: /
+    #   weight: 10
     - identifier: blog
       name: blog
       url: /blog/
@@ -210,3 +215,22 @@ services:
   twitter:
     disableInlineCSS: true
 
+getresource:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: -1
+  getcsv:
+    dir: :cacheDir/:project
+    maxAge: -1
+  getjson:
+    dir: :cacheDir/:project
+    maxAge: -1
+  getresource:
+    dir: :cacheDir/:project
+    maxAge: -1
+  images:
+    dir: :resourceDir/_gen
+    maxAge: -1
+  modules:
+    dir: :cacheDir/modules
+    maxAge: -1
