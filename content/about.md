@@ -21,7 +21,6 @@ Hello there.  I grew up in Iowa and am proud to call myself an _Iowan_.  Present
 </figure>
 -->
 
- 	
 
 {{< figure
   src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
@@ -37,7 +36,7 @@ Hello there.  I grew up in Iowa and am proud to call myself an _Iowan_.  Present
 I been fortunate to have had the opportunity to participate in several internships throughout my time studying Computer Science.  In May of 2021, I began my first internship as a Software Engineer.  It was a 7-month Co-Op at Collins Aerospace in Cedar Rapids, Iowa.  At Collins I supported the verification effort of flight deck software for the Tuning and Control Panel (TCP-2100) and the Display and Crew Alerting Systems (DCA) for Boeing 787 and 777x.  After my Co-Op I kept working for Collins part-time while enrolled in classes before transferring to Raytheon Missiles & Defense the following summer for an internship.  Most recently, I joined a Pre-Silicon Verification team with Arm’s Architecture & Technology Group in Austin, Texas.  There I contributed to the development of an advanced dynamic random test generator that is used extensively by CPU design teams throughout the Arm ecosystem.
 
 
-## What's next for me? 
+## What's next for me?
 
 In May of 2024 I will return for another internship with Arm continuing work in Pre-Silicon Verification.  After that I will return to Iowa State University to complete the final semester of my Master's degree.  I am pursuing employment upon completion of my Master's degree.
 
