@@ -133,9 +133,9 @@ While minimalist keyboards may not resonate universally, they represent a compel
 
 
 [^fork]: In open-source software development, a ___fork___ is a piece of software whose codebase originates from another project but has evolved separately, often with its own set of features, improvements, and changes.
-[^planck]: https://drop.com/buy/planck-mechanical-keyboard
-[^kam-superuser]: https://novelkeys.com/products/kam-superuser
-[^kailh-jade]: https://www.kailh.net/products/kailh-box-thick-clicky-switch-set
-[^qmk]: https://docs.qmk.fm/#/
-[^qmk-tap-dance]: https://docs.qmk.fm/#/feature_tap_dance
+[^planck]: <https://drop.com/buy/planck-mechanical-keyboard>
+[^kam-superuser]: <https://novelkeys.com/products/kam-superuser>
+[^kailh-jade]: <https://www.kailh.net/products/kailh-box-thick-clicky-switch-set>
+[^qmk]: <https://docs.qmk.fm/#/>
+[^qmk-tap-dance]: <https://docs.qmk.fm/#/feature_tap_dance>
 

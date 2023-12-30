@@ -89,9 +89,8 @@ params:
   homeInfoParams:
     Title: "Welcome to my Blog"
     Content: |
-      Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.
-
-      ---
+      Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.\
+      \
       For insight into who I am, my journey, and my interests, feel free to visit my [about](about) page.
 
   socialIcons:
@@ -168,8 +167,8 @@ pygmentsUseClasses: false
 markup:
   goldmark:
     renderer:
-      # enable html in markdown files.
-      unsafe: true
+      # unsafe: true, to enable html in markdown files.
+      unsafe: false
   highlight:
     # anchorLineNos: true
     codeFences: true
