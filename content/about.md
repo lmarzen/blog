@@ -55,9 +55,9 @@ Writing is a powerful tool for rationalizing one's opinions.  I write as a way t
 
 The best way to get in contact with me is via email.  Run this command in your terminal to decode my email address:
 
-{{< highlight bash "linenos=false" >}}
+```bash {linenos=false}
 $ echo "l1mLu9GdvJHcApGbuVmeyFWb" | rev | base64 -d
-{{< /highlight >}}
+```
 
 This obfuscation ensures privacy against email scraping bots.  If you encounter any issues, feel free to contact me through the other platforms listed below.
 

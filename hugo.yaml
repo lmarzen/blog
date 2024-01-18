@@ -164,6 +164,8 @@ menu:
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: false
+pygmentsCodeFences: true
+
 markup:
   goldmark:
     renderer:
@@ -174,6 +176,7 @@ markup:
     codeFences: true
     guessSyntax: false
     lineNos: true
+    lineNumbersInTable: true # if false, `copy` will copy line numbers
     noClasses: false # if false, must provide a stylesheet
     style: "monokai"
     # tabWidth: 4
