@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 # Copyright: "Copyright © 2023 Luke Marzen. All rights reserved."
-Copyright = 'Copyright © 2023-2024 Luke Marzen. All rights reserved.'
+Copyright: "Copyright © 2023-2024 Luke Marzen. All rights reserved."
 
 minify:
   disableXML: true
