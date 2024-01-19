@@ -24,7 +24,7 @@ searchHidden: false
 
 Verification is a paramount and formidable challenge in software engineering.  Moreover, it serves as a pivotal process that distinguishes software engineering from mere software development.  [_Spin_](https://spinroot.com/spin/whatispin.html) is a popular open-source software verification tool that has seen continuous research and development since its inception at Bell Labs in 1980.[^spin]  Under the hood, Spin is an explicit-state model checker, meaning it exhaustively searches the entire state space of a model.
 
-To check an algorithm or system you must first recode it in [_Promela_](https://spinroot.com/spin/Man/Quick.html), a C-like language used for defining a model for use with Spin.  Once a model is implemented in Promela, Spin can be used to find counter-traces to correctness constraints if any exist and otherwise formally verify the model.  Challenges arise when attempting to verify sufficiently complex systems or algorithms, particularly where the state space exceeds your system's memory capacity or when the search will take eons to complete.
+To check an algorithm or system using Spin you must first recode it in [_Promela_](https://spinroot.com/spin/Man/Quick.html), a C-like language used for defining a model for use with Spin.  Once a model is implemented in Promela, Spin can be used to find counter-traces to correctness constraints if any exist and otherwise formally verify the model.  Challenges arise when attempting to verify sufficiently complex systems or algorithms, particularly where the state space exceeds your system's memory capacity or when the search will take eons to complete.
 
 [^spin]: https://spinroot.com/spin/whatispin.html
 
