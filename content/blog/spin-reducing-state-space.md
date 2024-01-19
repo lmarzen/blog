@@ -115,7 +115,7 @@ The following excerpt from Holzmann's book, _The Spin Model Checker: Primer and 
 > As the difference between a verification model and an implementation artifact becomes larger, one may well question if the facts that we are proving still have relevance. We take a very pragmatic view of this here. For our purposes, two models are equivalent if they have the same properties. This means that we can always simplify a verification model if its properties of interest are unaffected by the simplifications.
 
 __Note__\
-Before you attempt to implement any of the suggestions in this section, _validate_[^validation] your existing model before making any changes.  After making modifications, re-validate your model to ensure that you haven't altered the behavior of your model.
+Before you attempt to implement any of the suggestions in this section, _validate_[^validation] your existing model.  After making modifications, re-validate your model to ensure that you haven't altered the behavior of your model.
 
 One more thing: remember to measure the impact of your modifications.  Measuring/benchmarking is the most essential part of any optimization journey.  Some of these proposed ideas could even result in worse performance in terms of both time and space.
 
