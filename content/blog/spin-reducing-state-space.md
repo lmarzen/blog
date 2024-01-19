@@ -117,7 +117,7 @@ The following excerpt from Holzmann's book, _The Spin Model Checker: Primer and 
 __Note__\
 Before you attempt to implement any of the suggestions in this section, _validate_[^validation] your existing model.  After making modifications, re-validate your model to ensure that you haven't altered the behavior of your model.
 
-One more thing: remember to measure the impact of your modifications.  Measuring/benchmarking is the most essential part of any optimization journey.  Some of these proposed ideas could even result in worse performance in terms of both time and space.
+One more thing: remember to measure the impact of your modifications.  Measuring/benchmarking is the most essential part of any optimization journey.  Some of the proposed ideas could even result in worse performance in terms of both time and space.
 
 [^validation]: ___Validation___ is distinct from ___verification___.  In this context, _model validation_ is the process of assessing whether the model accurately represents the system it is intended to describe.
 
