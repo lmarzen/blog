@@ -305,7 +305,7 @@ This had absolutely no impact.  There must be some underlying compression that m
 
 I wanted to include this here since I ran into this problem when working on a model and was unable to find any resources that discussed this issue.
 
-You may know that Spin has a default max search depth of 10,000 steps and that this search depth can be increased using the _-m_ pan flag.
+You might know that Spin has a default max search depth of 10,000 steps and that this search depth can be increased using the _-m_ pan flag.
 
 From the [Spin Manual](https://spinroot.com/spin/Man/Pan.html):
 > **-m***N* \
