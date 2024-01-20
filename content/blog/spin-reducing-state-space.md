@@ -124,7 +124,7 @@ One more thing: remember to measure the impact of your modifications.  Measuring
 
 ### Tip 1. Non-Deterministic Select
 
-Avoid using the `select` keyword to non-deterministically choose a number in a range whenever possible.  Instead, use an equivalent `if` statement.  Using `select` hugely increases search depth, runtime, and memory requirements when compared to an `if` statement that accomplishes the same task.
+Whenever possible, avoid using the `select` keyword to non-deterministically choose a number in a range.  Instead, use an equivalent `if` statement.  Using `select` hugely increases search depth, runtime, and memory requirements when compared to an `if` statement that accomplishes the same task.
 
 Consider that you need to non-deterministically select a number in a range to index an array.  The range is known at compile-time via a parameter expressed as a pre-processor macro.
 
