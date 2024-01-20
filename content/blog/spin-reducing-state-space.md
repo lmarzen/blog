@@ -168,7 +168,7 @@ do
 od
 ```
 
-Manually creating these `if` statements may not be scalable.  Unfortunately, as far as I am aware, promela does not provide a simple abstraction for creating `if` statements like I have shown above based on a range known at compile-time.  Generating the if statement with a pre-processor macro may be feasible using some tricks, but it is both very non-trivial and messy.  If you need a more scalable solution, then I would recommend creating a script to pre-process the Promela file to generate the `if` statements.  To this end, I have created a Python script and used a Makefile to handle my build process.  <https://github.com/lmarzen/mesi-verif/tree/main/model>
+Manually creating these `if` statements may not be scalable.  Unfortunately, as far as I am aware, Promela does not provide a simple abstraction for creating `if` statements like I have shown above based on a range known at compile-time.  Generating the if statement with a pre-processor macro may be feasible using some tricks, but it is both very non-trivial and messy.  If you need a more scalable solution, then I would recommend creating a script to pre-process the Promela file to generate the `if` statements.  To this end, I have created a Python script and used a Makefile to handle my build process.  <https://github.com/lmarzen/mesi-verif/tree/main/model>
 
 This technique only works when the upper and lower bounds are known at compile time.
 
