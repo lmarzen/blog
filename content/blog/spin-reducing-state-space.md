@@ -223,7 +223,7 @@ I believe there are two issues with this implementation.
 
 If verifying a parallel program, consider how `atomic` regions can be used to reduce state space without altering the behavior that you are interested in verifying.
 
-I originally read about this idea in this 2007 article by Paul McKenney: <https://lwn.net/Articles/243851/](https://lwn.net/Articles/243851/>
+I originally read about this idea in this 2007 article by Paul McKenney: <https://lwn.net/Articles/243851/>
 
 If you are using `assert` statements in your code, then you can likely add an atomic statement around it and the following/previous statement.  The assert statements aren't part of the system you are verifying, so don't let them balloon your state space.  Check out the section titled _Promela Coding Tricks_ in McKenney's [article](https://lwn.net/Articles/243851/) for more examples and details.
 
