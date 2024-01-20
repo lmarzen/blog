@@ -142,7 +142,7 @@ Here is an example of how you would use the `select` statement it solve this pro
 
 <!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
 ```c {lineNos=false}
-select(addr: 0 .. LENGTH - 1)
+select(index: 0 .. LENGTH - 1)
 ```
 
 Although the select statement achieves the desired effect, it causes an exponential state space explosion compared to the equivalent statement expressed using the `if` abstraction.
