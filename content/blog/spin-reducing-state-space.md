@@ -296,9 +296,11 @@ My advice is to carefully consider whether each variable in your model is releva
 
 As part of a class project, I developed a model that keeps track of the state and tag of cache lines.
 
-I initially represented both the state and tag using separate bytes.  I thought that I might be able to reduce memory requirements if I used the lower bits for the tag and using the upper bits for the state.  Bitwise operations were used to extract and update the data.
+I initially represented both the state and tag using separate bytes.  Then I had the idea to try and I reduce memory requirements by using the lower bits for the tag and using the upper bits for the state.  Bitwise operations could be used to extract and update the data.
 
 This had absolutely no impact.  There must be some underlying compression that makes this optimization for us.  I tested this with and without the compression flags discussed earlier, and the results were the same.
+
+Don't waste your time trying to squeeze the most out of each available bit using bitwise operators; Spin will compress everything and do this for you.
 
 
 ## Maximum Search Depth
