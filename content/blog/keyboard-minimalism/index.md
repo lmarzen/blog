@@ -9,7 +9,7 @@ tags: ["keyboards", "minimalism"]
 
 cover:
   # for consistency aspect ratio should be 1.91:1
-  image: "/images/blog/keyboard-minimalism/cover.jpg"
+  image: "cover.jpg"
   caption: "OLBK Planck with NovelKeys KAM Superuser keycaps."
   alt: "Image of Luke's 40% keyboard."
   hidden: false
@@ -24,7 +24,7 @@ searchHidden: false
 
 
 {{< figure
-  src="/images/blog/keyboard-minimalism/planck-keyboard.jpg"
+  src="planck-keyboard.jpg"
   attr="OLBK Planck with NovelKeys KAM Superuser keycaps."
   alt="Image of Luke's 40% keyboard."
 >}}
@@ -88,7 +88,7 @@ Now we examine the 40% ortholinear keyboard layout to understand how we can use 
 40% keyboards are designed to be customizable.  To enable customizability without necessitating software to be installed and configured on each device the keyboard will be plugged into, the keyboard's firmware can be reprogrammed.  This is important since you will want your keyboard to operate consistently regardless of what computer you are using it with.  Especially if you plan to use your 40% keyboard with a work computer that has restrictions on what software can be installed.  In the next section, I will discuss how you can reprogram your keyboard with the QMK firmware.
 
 {{< figure
-  src="/images/blog/keyboard-minimalism/keyboard-layout.png"
+  src="keyboard-layout.png"
   attr="Example keybindings for a 40% ortholinear layout."
   alt="Diagram depicting the keybindings for a 40% ortholinear keyboard layout."
 >}}

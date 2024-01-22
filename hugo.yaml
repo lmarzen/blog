@@ -113,7 +113,7 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
-    responsiveImages: true
+    responsiveImages: true # resize images based on client resolution
 
   # editPost:
   #   URL: "https://github.com/<path_to_repo>/content"

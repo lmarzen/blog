@@ -23,7 +23,7 @@ Hello there.  I grew up in Iowa and am proud to call myself an _Iowan_.  Present
 
 
 {{< figure
-  src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
+  src="Lauritzen_Gardens_20Mar2022.jpg"
   alt="Image of Luke standing in front of a giant bean painted with mathematical symbols."
   attr="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?"
   align=center
