@@ -214,3 +214,9 @@ services:
   twitter:
     disableInlineCSS: true
 
+imaging:
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 80
+  resampleFilter: box
+
