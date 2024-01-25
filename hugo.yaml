@@ -117,8 +117,6 @@ params:
 
   responsiveImages:
     enabled: true
-    setSizes: [ 360 540 720 1080 1440 ]
-    sizes: "(min-width: 768px) 720px, 100vw"
 
   # editPost:
   #   URL: "https://github.com/<path_to_repo>/content"
