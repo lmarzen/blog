@@ -31,7 +31,7 @@ I have been fortunate to have had the opportunity to participate in several inte
 In May of 2024 I will return for another internship with Arm continuing work in Pre-Silicon Verification.  After that I will return to Iowa State University to complete the final semester of my Master's degree.  I am pursuing employment upon completion of my Master's degree.
 
 
-## Why I Write?
+## Why I Write
 
 Writing is a powerful tool for rationalizing one's opinions.  I write as a way to explore different points of view and share ideas I find interesting.  I think this excerpt best summarizes my motivations for writing.
 
