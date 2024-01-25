@@ -12,22 +12,12 @@ disableSpecial1stPost: false
 
 Hello there.  I grew up in Iowa and am proud to call myself an _Iowan_.  Presently, I am a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Apart from academia, I find enjoyment in exploring a myriad of hobbies.  I'm passionate about computers, Open Source projects, 3D printing, mechanical keyboards, motorcycles, soccer, and hiking.
 
-<!--
-<figure>
-    <img src="/images/about/Lauritzen_Gardens_20Mar2022.jpg"
-         alt="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska."
-         width="80%">
-    <figcaption>Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?</figcaption>
-</figure>
--->
-
-
 {{< figure
   src="Lauritzen_Gardens_20Mar2022.jpg"
   alt="Image of Luke standing in front of a giant bean painted with mathematical symbols."
   attr="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?"
   align=center
-  width=75%
+  hint="photo"
 >}}
 
 

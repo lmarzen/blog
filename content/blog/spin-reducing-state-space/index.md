@@ -15,6 +15,9 @@ tags: ["formal methods", "promela", "spin", "verification"]
   # hidden: false
   # hiddenInList: false
   # hiddenInSingle: false
+  # hint: "photo" # https://gohugo.io/content-management/image-processing/#hint
+  # quality: "85"
+  # resampleFilter: "lanczos" # https://gohugo.io/content-management/image-processing/#resampling-filter
 
 showToc: true
 TocOpen: true
