@@ -53,7 +53,7 @@ jobs:
       - name: Install avifenc
         run: |
           # sudo apt-get update
-          sudo apt-get install -y libavif-tools
+          sudo apt-get install -y libavif-bin
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
