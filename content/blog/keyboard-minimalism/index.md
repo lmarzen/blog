@@ -11,7 +11,7 @@ cover:
   # for consistency aspect ratio should be 1.91:1
   image: "cover.jpg"
   caption: "OLBK Planck with NovelKeys KAM Superuser keycaps."
-  alt: "Image of Luke's 40% keyboard."
+  alt: "A small, 40% ortholinear keyboard. OLBK Planck with NovelKeys KAM Superuser keycaps."
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -29,7 +29,7 @@ searchHidden: false
 {{< figure
   src="planck-keyboard.jpg"
   attr="OLBK Planck with NovelKeys KAM Superuser keycaps."
-  alt="Image of Luke's 40% keyboard."
+  alt="A small, 40% ortholinear keyboard. OLBK Planck with NovelKeys KAM Superuser keycaps."
   hint="picture"
 >}}
 
