@@ -8,4 +8,5 @@ cd ../
 
 hugo
 bash scripts/gen-avif.sh
+hugo server
 
