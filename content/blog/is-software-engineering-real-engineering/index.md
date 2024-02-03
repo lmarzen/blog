@@ -93,7 +93,7 @@ This analogy, however, overly generalizes the impact of software.  There are ins
 
 - NASA's Mars Climate Orbiter: A conversion error caused the spacecraft to enter orbit to low and burn up in the Martian atmosphere. Cost: $193.1 million.
 
-- Northeast Blackout of 2003: Power outage resulting from a race condition in monitoring software.  Lasted 4 days, 55 million people affected, ~100 deaths.
+- Northeast Blackout of 2003: Power outage spanning the Northeastern United States and Southeastern Canada which resulted from a race condition in monitoring software.  Lasted 4 days, 55 million people affected, ~100 deaths.
 
 You get the point.  If for whatever reason you enjoy reading about catastrophic software bugs, a substantial list of them can be found on [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_software_bugs).
 
