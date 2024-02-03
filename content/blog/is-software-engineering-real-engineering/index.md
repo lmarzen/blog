@@ -93,6 +93,8 @@ This analogy, however, overly generalizes the impact of software.  There are ins
 
 - NASA's Mars Climate Orbiter: A conversion error caused the spacecraft to enter orbit to low and burn up in the Martian atmosphere. Cost: $193.1 million.
 
+- Northeast Blackout of 2003: Power outage resulting from a race condition in monitoring software.  Lasted 4 days, 55 million people affected, ~100 deaths.
+
 ## Rigorous Evaluation and Analysis
 
 Given the consequential nature of engineering, rigorous evaluation and analysis is an indispensable part of the engineering process.  Prototyping, simulation and modeling, standards and codes, design reviews, and experimental testing are all regularly employed in engineering.
