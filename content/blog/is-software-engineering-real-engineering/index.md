@@ -91,6 +91,7 @@ This analogy, however, overly generalizes the impact of software.  There are ins
 
 - Boeing 737 MAX: The Maneuvering Characteristics Augmentation System (MCAS) could autonomously command the airplane to nosedive when just a single sensor gave bad data. 346 dead. Cost Boeing an estimated $80 billion.
 
+- NASA's Mars Climate Orbiter: A conversion error caused the spacecraft to enter orbit to low and burn up in the Martian atmosphere. Cost: $193.1 million.
 
 ## Rigorous Evaluation and Analysis
 
