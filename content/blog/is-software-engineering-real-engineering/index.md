@@ -95,6 +95,8 @@ This analogy, however, overly generalizes the impact of software.  There are ins
 
 - Northeast Blackout of 2003: Power outage resulting from a race condition in monitoring software.  Lasted 4 days, 55 million people affected, ~100 deaths.
 
+You get the point.  If for whatever reason you enjoy reading about catastrophic software bugs, a substantial list of them can be found on [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_software_bugs).
+
 ## Rigorous Evaluation and Analysis
 
 Given the consequential nature of engineering, rigorous evaluation and analysis is an indispensable part of the engineering process.  Prototyping, simulation and modeling, standards and codes, design reviews, and experimental testing are all regularly employed in engineering.
