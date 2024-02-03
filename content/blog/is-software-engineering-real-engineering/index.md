@@ -85,7 +85,7 @@ This idea is deeply embedded in software engineering.  Selecting and creating ef
 
 If a social media platform is down, I am annoyed; if the building I'm in collapses, I am dead. 
 
-This analogy, however, overly generalizes the impact of software.  There are instances where poorly designed software can have severe consequences, such as in critical systems like healthcare, transportation, and infrastructure.
+This analogy, however, overly generalizes the impact of software.  There are instances where poorly designed software can have severe consequences, such as in critical systems in healthcare, transportation, and infrastructure.
 
 - Therac-25: A radiation therapy machine malfunctioned and delivered lethal radiation doses to patients caused by a software race condition. Three dead, three critically injured.
 
