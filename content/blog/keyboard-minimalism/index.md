@@ -95,6 +95,7 @@ Now we examine the 40% ortholinear keyboard layout to understand how we can use 
   src="keyboard-layout.png"
   attr="Example keybindings for a 40% ortholinear layout."
   alt="Diagram depicting the keybindings for a 40% ortholinear keyboard layout."
+  width=100%
   responsive=false
 >}}
 
