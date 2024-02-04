@@ -96,10 +96,12 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/lmarzen"
+    - name: instagram
+      url: "https://www.instagram.com/lukemarzen/"
     - name: linkedin
       url: "https://www.linkedin.com/in/lukemarzen/"
     - name: rss
-      url: "index.xml"
+      url: "/index.xml"
 
   # analytics:
   #   google:
