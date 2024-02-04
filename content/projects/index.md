@@ -2,6 +2,7 @@
 title: "Projects"
 
 searchHidden: true
+excludeFromRSS: true
 ---
 
 # Under Construction
