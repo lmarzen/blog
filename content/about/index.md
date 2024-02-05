@@ -8,7 +8,8 @@ ShowBreadCrumbs: false
 ShowCodeCopyButtons: true
 ShowWordCount: false
 disableSpecial1stPost: false
-excludeFromRSS: true
+excludeFromRSS: false
+excludeFromSearch: false
 ---
 
 Hello there.  I grew up in Iowa and am currently a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  Apart from academia, I find enjoyment in exploring a myriad of hobbies.  I'm passionate about computers, Open Source projects, 3D printing, mechanical keyboards, motorcycles, soccer, and hiking.
