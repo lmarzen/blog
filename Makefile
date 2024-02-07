@@ -1,10 +1,9 @@
 .PHONY: all build gen-avif init preview publish server clean
 
-# Check if NETLIFY is set to true and run install.sh if it is
-# ifeq ($(NETLIFY),true)
-# $(info NETLIFY environment variable is set to true. Running install.sh...)
-# $(shell bash scripts/build-avifenc.sh)
-# endif
+# Build and install dependencies if necessary
+ifeq ($(NETLIFY),true)
+$(shell bash scripts/netlify-install-avifenc.sh)
+endif
 
 all: server
 
