@@ -4,6 +4,7 @@ resources/
 hugo_stats.json
 avif/
 node_modules/
+.work/
 
 # Executable may be added to repository
 hugo.exe

@@ -1,9 +1,9 @@
 .PHONY: all build gen-avif init preview publish server clean
 
 # Build and install dependencies if necessary
-ifeq ($(NETLIFY),true)
-$(shell bash scripts/netlify-install-avifenc.sh)
-endif
+# ifeq ($(NETLIFY),true)
+# $(shell bash scripts/netlify-install-avifenc.sh)
+# endif
 
 all: server
 
@@ -28,5 +28,5 @@ server: gen-avif
 	# hugo server --buildDrafts --buildExpired --buildFuture
 
 clean:
-	rm -rf public resources avif
+	rm -rf public resources avif .work
 
