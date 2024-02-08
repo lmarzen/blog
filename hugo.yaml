@@ -36,11 +36,13 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
+  ReadingTimeRange: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: false
+  hideAuthor: true
   ShowRssButtonInSectionTermList: true
   ShowFullTextinRSS: false
   UseHugoToc: true
@@ -235,3 +237,14 @@ imaging:
 staticDir:
 - static
 - avif
+
+# https://searchfox.org/mozilla-central/source/toolkit/components/reader/ReaderMode.sys.mjs
+# http://iovs.arvojournals.org/article.aspx?articleid=2166061
+languages:
+  en:
+    params:
+      reading_speed_cpm: 987
+      reading_speed_variance: 118
+      avg_word_length: 5.4
+
+
