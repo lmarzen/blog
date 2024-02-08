@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AVIFENV=avifenc
+AVIFENC=avifenc
 if [ "$NETLIFY" = "true" ];
 then
     AVIFENC=$(realpath $(dirname "$0")/../.local/bin/avifenc)
