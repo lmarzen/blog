@@ -18,10 +18,10 @@ build: gen-avif
 
 
 publish: gen-avif
-	hugo --gc --minify --baseURL $(DEPLOY_PRIME_URL)
+	hugo --gc --minify --baseURL "$(DEPLOY_PRIME_URL)"
 
 preview: gen-avif
-	hugo --gc --minify --buildFuture --baseURL $(DEPLOY_PRIME_URL)
+	hugo --gc --minify --buildFuture --baseURL "$(DEPLOY_PRIME_URL)"
 
 server: gen-avif
 	hugo server
