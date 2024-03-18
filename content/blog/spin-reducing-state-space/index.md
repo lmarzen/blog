@@ -143,15 +143,13 @@ select '(' name ':' expr '..' expr ')' 
 
 Here is an example of how you would use the `select` statement it solve this problem...
 
-<!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
-```c {lineNos=false}
+```promela {lineNos=false}
 select(index: 0 .. LENGTH - 1)
 ```
 
 Although the select statement achieves the desired effect, it causes an exponential state space explosion compared to the equivalent statement expressed using the `if` abstraction.
 
-<!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
-```c
+```promela
 if
 :: index = 0;
 :: index = 1;
@@ -163,8 +161,7 @@ fi
 
 The underlying reason for this seems to be that the `select` statement is converted to the following `do`\-loop.
 
-<!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
-```c
+```promela
 do
 :: index < LENGTH - 1 -> index++;
 :: break;
@@ -234,8 +231,7 @@ If you have multiple assignments in a row that are not visible to other processe
 
 Before:
 
-<!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
-```c
+```promela
 if
 :: val1 = true;
 :: val1 = false;
@@ -246,8 +242,7 @@ val2 = 0;
 
 After:
 
-<!-- TODO: Change language to Promela once Chroma verison is bumped for Hugo. -->
-```c {hl_lines=[1,8]}
+```promela {hl_lines=[1,8]}
 atomic {
 if 
 :: val1 = true;
