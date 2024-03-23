@@ -311,7 +311,7 @@ From the [Spin Manual](https://spinroot.com/spin/Man/Pan.html):
 > **-m***N* \
 > set max search depth to *N* steps (default *N*=10000)
 
-At a certain point (*N*=1,410,065,408 from what I encountered), the option will no longer increase the max search depth.  I suspect this is a hard limit of Spin, but I am curious why this is such an arbitrary number. Not a power of 2 - 1 as you might expect.  Furthermore, I am unsure whether this max search depth is consistent across different models or whether some models have higher or lower limits depending on some characteristic of the model.
+At a certain point (*N*=1,410,065,408 from what I encountered), the above option will no longer increase the max search depth.  I suspect this is a hard limit of Spin, but I am curious why this is such an arbitrary number. Not a power of 2 - 1 as you might expect.  Furthermore, I am unsure whether this max search depth is consistent across different models or whether some models have higher or lower limits depending on some characteristic of the model.
 
 I am unaware of any workarounds other than simplifying your model or applying some of the tricks in this article.
 
