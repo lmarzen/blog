@@ -52,7 +52,7 @@ $ echo "l1mLu9GdvJHcApGbuVmeyFWb" | rev | base64 -d
 
 This obfuscation protects my privacy against email scraping bots.  If you encounter any issues, feel free to contact me through the other platforms listed below.
 
-To see what open source projects I am contributing to, check out my [GitHub](https://github.com/lmarzen).
+To see what open-source projects I am contributing to, check out my [GitHub](https://github.com/lmarzen).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lukemarzen/).
 
