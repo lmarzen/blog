@@ -53,8 +53,13 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  hidePoweredByLine: true
   syntax: false # true will force syntax stylesheets to be requested for all pages. Instead enable this on an as needed basis.
+
+  hideFooder: false
+  footer:
+    hideCopyright: false
+    hidePoweredByLine: true
+    text: ""
 
   assets:
     disableChroma: false
