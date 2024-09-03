@@ -12,17 +12,17 @@ cd ..
 quality=65
 
 # Set the directory path
-gen_images_dir="resources/_gen/images/"
-static_dir="avif/"
+gen_images_dir="resources/_gen/images"
+static_dir="avif"
 
 # Use a for loop to iterate over the files with the specified naming scheme
-for png_file in $(find "$gen_images_dir" -type f -name '*_resize_*.png'); do
+for png_file in $(find "$gen_images_dir" -type f -name '*.png'); do
     # Extract the directory and filename (without extension) from the PNG file
-    relative_dir=$(dirname "${png_file#$gen_images_dir}")
+    relative_dir=$(dirname "${png_file#$gen_images_dir/}")
     filename=$(basename "$png_file" .png)
 
     # Create the AVIF filename by replacing the extension and changing the suffix
-    avif_file="$static_dir$relative_dir/${filename//_resize_/_resize_q${quality}_}.avif"
+    avif_file="$static_dir/$relative_dir/$filename.avif"
 
     # Check if the AVIF file already exists at the output path
     if [ -e "$avif_file" ]; then
