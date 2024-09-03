@@ -15,9 +15,9 @@ excludeFromSearch: false
 Hello there.  I grew up in Iowa and am currently a graduate Computer Science student at Iowa State University.  My research interests include Program Analysis, Compilers, High-Performance Computing, and Computer Architecture.  I find enjoyment in exploring a myriad of hobbies.  I'm passionate about computers, open-source projects, 3D printing, mechanical keyboards, motorcycles, soccer, and hiking.
 
 {{< figure
-  src="Lauritzen_Gardens_20Mar2022.jpg"
-  alt="Luke Marzen standing in front of a giant bean painted with mathematical symbols."
-  attr="Luke standing in front of a giant math bean at the Lauritzen Gardens in Omaha, Nebraska.  Why a giant math bean? Because who wouldn't want to stand next to a giant math bean?"
+  src="Luke_Marzen_Honors_Convocation.jpg"
+  alt="Luke Marzen pictured, looking very handsome just after receiving a medal for graduating the University Honors Program."
+  attr="Luke at the Iowa State University Honors Convocation."
   align=center
   hint="photo"
 >}}
@@ -36,8 +36,7 @@ In May 2024, I will return for a second internship with Arm, continuing work in 
 
 Writing is a powerful tool for rationalizing one's opinions.  I write as a way to explore different points of view and share ideas I find interesting.  I think this excerpt best summarizes my motivations for writing.
 
-> ...I have to write to discover what I am doing.  ...I don't know so well what I think until I see what I say; then I have to say it again.<br>
-> --- <cite>Flannery O'Connor[^oconnor1979]</cite>
+> ...I have to write to discover what I am doing.  ...I don't know so well what I think until I see what I say; then I have to say it again.  --- <cite>Flannery O'Connor[^oconnor1979]</cite>
 
 [^oconnor1979]: The Habit of Being: Letters of Flannery O’Connor
 
