@@ -143,7 +143,7 @@ select '(' name ':' expr '..' expr ')' 
 
 Here is an example of how you would use the `select` statement it solve this problem...
 
-```promela {lineNos=false}
+```promela
 select(index: 0 .. LENGTH - 1)
 ```
 
