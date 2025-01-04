@@ -89,8 +89,8 @@ params:
     # imageHeight: 120
     # imageTitle: my image
     # buttons:
-    #   - name: Posts
-    #     url: posts
+    #   - name: Articles
+    #     url: articles
     #   - name: Tags
         # url: tags
 
@@ -180,6 +180,9 @@ menu:
     #   name: example.org
     #   url: https://example.org
     #   weight: 30
+
+permalinks:
+  articles: "/:title/"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: false
