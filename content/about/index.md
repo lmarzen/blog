@@ -48,7 +48,7 @@ During my last year of my undergrad and first year of my graduate studies I comp
 
 ## Contact
 
-The best way to get in contact with me is via email: `marzenlj at proton dot me`
+The best way to get in contact with me is via email: `{{< email-obfuscate "marzenlj" "proton" "me" >}}`
 
 To see what open-source projects I am contributing to, check out my [GitHub](https://github.com/lmarzen).
 
