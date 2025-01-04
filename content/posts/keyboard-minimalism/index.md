@@ -5,6 +5,7 @@ draft: false
 
 author: "Luke Marzen" # multiple author: ["Me", "You"]
 tags: ["keyboards", "minimalism"]
+keywords: [keyboards, minimalism, keyboard minimalism, 40 percent, ortholinear, Luke Marzen, Luke, Marzen]
 # description: "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 cover:

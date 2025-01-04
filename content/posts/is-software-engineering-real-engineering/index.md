@@ -5,6 +5,7 @@ draft: false
 
 author: "Luke Marzen" # multiple author: ["Me", "You"]
 tags: ["engineering"]
+keywords: [software engineering, engineering, real engineering, opinion, Luke Marzen, Luke, Marzen]
 # description: "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 # cover:

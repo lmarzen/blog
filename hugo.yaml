@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 # Copyright: "Copyright © 2023 Luke Marzen. All rights reserved."
-Copyright: "Copyright © 2023-2024 Luke Marzen. All rights reserved."
+Copyright: "Copyright © 2023-2025 Luke Marzen. All rights reserved."
 
 minify:
   disableXML: true
@@ -26,9 +26,9 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Luke Marzen"
-  description: "Luke Marzen's personal blog."
-  # keywords: [Blog, Portfolio, PaperMod]
-  # author: "Luke Marzen"
+  description: "Luke Marzen's personal website."
+  keywords: [Luke Marzen, Luke, Marzen, Blog, Portfolio]
+  author: "Luke Marzen"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   # images: ["images/share.png"]
@@ -96,9 +96,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to My Blog"
+    Title: "Hello from Austin, Texas!"
     Content: |
-      Here you will find articles I have written on topics that interest me, from technology and privacy issues to soccer and motorcycles.\
+      Here you will find articles I have written on topics that interest me, from software engineering, technology, and privacy issues to soccer and motorcycles.\
       \
       For insight into who I am, my journey, and my interests, feel free to visit my [about](about) page.
 
@@ -160,9 +160,9 @@ menu:
     #   name: home
     #   url: /
     #   weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 20
     - identifier: search
       name: Search
