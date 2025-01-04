@@ -27,7 +27,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Luke Marzen"
   description: "Luke Marzen's personal website."
-  keywords: [Luke Marzen, Luke, Marzen, Blog, Portfolio]
+  # keywords: [Luke Marzen, Luke, Marzen, Blog, Portfolio]
   author: "Luke Marzen"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]

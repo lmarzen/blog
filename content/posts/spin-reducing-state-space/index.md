@@ -5,7 +5,6 @@ draft: false
 
 author: "Luke Marzen" # multiple author: ["Me", "You"]
 tags: ["formal methods", "promela", "spin", "verification"]
-keywords: [formal methods, promela, spin, verification, tips, optimization, reducing, reduce, state space, Luke Marzen, Luke, Marzen]
 # description: "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 # cover:

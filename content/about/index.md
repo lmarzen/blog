@@ -2,7 +2,6 @@
 title: "About"
 
 author: "Luke Marzen"
-keywords: [about, Luke Marzen, Luke, Marzen]
 
 ShowReadingTime: false
 ShowShareButtons: false

@@ -5,7 +5,6 @@ draft: false
 
 author: "Luke Marzen" # multiple author: ["Me", "You"]
 tags: ["first"]
-keywords: [keywords, improve, searchability]
 description: "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 cover:
