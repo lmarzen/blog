@@ -30,10 +30,10 @@ I'm passionate about computers, open-source projects, 3D printing, mechanical ke
 
 ## Career
 
-In January 2025, I began my current role with __Arm__ as a __Graduate Software Engineer__, working as part of the Raven Random Test Generator team.
+In January 2025, I began my current role with __Arm__ as a __Graduate Software Engineer__, contributing to the development of Raven.
 Raven is a dynamic random test generator written in modern C++, widely used by CPU design teams across the Arm ecosystem for over a decade.
-My work focuses on enhancing Raven's capabilities, designing and implementing new features, and supporting its use in verifying A, R, and M-class cores.
-This role allows me to apply my skills in modern C++ and computer architecture knowledge while collaborating with engineers to tackle complex verification challenges.
+My responsibilities include designing new features, debugging complex issues, and supporting Raven's use for A, R, and M-class cores.
+This role allows me to leverage my expertise in C++ and computer architecture as I collaborate with engineers to tackle challenging verification problems.
 
 <!-- once I have been working for a while, uncomment this... -->
 <!-- I’ve had the opportunity to debug intricate issues, engage in technical discussions, and support users through training. -->
