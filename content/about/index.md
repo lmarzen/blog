@@ -43,7 +43,7 @@ In May of 2021, I began my first co-op as a __Software Engineer__ at __Collins A
 At Collins, I supported the verification effort of flight deck software for the Tuning and Control Panel (TCP-2100) and the Display and Crew Alerting Systems (DCA) for Boeing 787 and 777x.
 After my co-op, I kept working for Collins part-time while enrolled in classes before moving to Arizona the following summer for an internship with __Raytheon Missiles & Defense__.
 At Raytheon, I fixed bugs, vulnerabilities, and other weaknesses in embedded software identified by static analysis tools.
-During my last year of my undergrad and first year of my graduate studies I completed two internships with __Arm's Architecture & Technology Group__ which I eventually joined full-time upon graduation.
+During the last year of my undergrad and first year of my graduate studies I completed two internships with __Arm's Architecture & Technology Group__ which I eventually joined full-time upon graduation.
 
 
 ## Contact
