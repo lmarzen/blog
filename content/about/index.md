@@ -31,7 +31,7 @@ When I’m not behind a screen, I enjoy the thrill of riding motorcycles, playin
 ## Career
 
 In January 2025, I began my current role with __Arm__ as a __Graduate Software Engineer__, contributing to the development of Raven.
-Raven is a dynamic random test generator written in modern C++, widely used by CPU design teams across the Arm ecosystem for over a decade.
+Raven is a dynamic random test generator written in modern C++, widely used by CPU design teams across the Arm ecosystem.
 My responsibilities include designing new features, debugging complex issues, and supporting Raven's use for A, R, and M-class cores.
 In this role I leverage my expertise in C++ and computer architecture as I collaborate with engineers to tackle challenging verification problems.
 
