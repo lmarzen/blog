@@ -125,7 +125,7 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
     responsiveImages: true # resize images based on client resolution
-    linkFullImages: true
+    linkFullImages: false
 
   responsiveImages:
     enabled: true
