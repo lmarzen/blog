@@ -30,6 +30,7 @@ searchHidden: false
   src="planck-keyboard.jpg"
   attr="OLBK Planck with NovelKeys KAM Superuser keycaps."
   alt="A small, 40% ortholinear keyboard. OLBK Planck with NovelKeys KAM Superuser keycaps."
+  align=center
   hint="picture"
 >}}
 
@@ -96,6 +97,7 @@ Now we examine the 40% ortholinear keyboard layout to understand how we can use 
   attr="Example keybindings for a 40% ortholinear layout."
   alt="Diagram depicting the keybindings for a 40% ortholinear keyboard layout."
   width=100%
+  align=center
   responsive=false
 >}}
 
