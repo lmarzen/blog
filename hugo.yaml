@@ -125,6 +125,7 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
     responsiveImages: true # resize images based on client resolution
+    linkFullImages: true
 
   responsiveImages:
     enabled: true
@@ -222,7 +223,7 @@ privacy:
   instagram:
     disable: false
     simple: false
-  twitter:
+  x:
     disable: false
     enableDNT: true
     simple: false
@@ -237,7 +238,7 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
 
 imaging:
