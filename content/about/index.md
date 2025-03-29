@@ -48,7 +48,7 @@ During the last year of my undergrad and first year of my graduate studies I com
 
 ## Research
 
-My Master’s thesis, titled "Static and dynamic approaches to data mapping optimization in heterogeneous programs", focused on exploring program analysis techniques for improving the runtime performance and energy efficiency of HPC applications while simultaneously reducing development effort. 
+My Master’s thesis, titled "Static and dynamic approaches to data mapping optimization in heterogeneous programs," focused on exploring program analysis techniques for improving the runtime performance and energy efficiency of HPC applications while simultaneously reducing development effort. 
 
 Additionally, I published a paper in an __A*__ conference:
 <!-- Additionally, I published two papers in __A*__ conferences: -->
